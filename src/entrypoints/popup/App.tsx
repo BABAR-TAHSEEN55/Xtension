@@ -10,3 +10,8 @@ const App = () => {
 };
 
 export default App;
+//TODO:: 
+//1) LLM Setup 
+//2) Dark mode Toggle ( Last Priority )
+//3) Branch llm setup maybe
+//4) Good Readme with details setup info

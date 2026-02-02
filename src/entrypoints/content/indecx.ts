@@ -1,6 +1,8 @@
+// Content should use custom css and not shadcn
+import "../initial.css";
 export default defineContentScript({
-  matches: ['*://*.google.com/*'],
+  matches: ["*://*.google.com/*"],
   main() {
-    console.log('Hello content.');
+    console.log("Hello content.");
   },
 });
